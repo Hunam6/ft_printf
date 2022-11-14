@@ -1,0 +1,8 @@
+.vscode/
+*.dSYM/
+a.out
+*.o
+*.a
+test.c
+.DS_Store
+ft_printf-test-2/
