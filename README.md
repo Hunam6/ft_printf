@@ -1,6 +1,6 @@
 <div align="center">
   <h1>ft_printf</h1>
-  <b>Simplified version of `printf`</b>
+  <b>Simplified version of <code>printf</code></b>
 </div>
 
 ## 🛠️ Installation
@@ -10,4 +10,4 @@ Include `ft_printf.h` in your file.
 
 ## 📚 Usage
 
-The same way you would use `printf` but it only supports these specifiers: `c`, `s`, `p`, `d`, `i`, `u`, `x`, `X` and `%` without any modifier.
+The same way you would use `printf` (`man printf`) but it only supports these specifiers: `c`, `s`, `p`, `d`, `i`, `u`, `x`, `X` and `%` without any modifier.
