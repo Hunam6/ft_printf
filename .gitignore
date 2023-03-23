@@ -1,8 +1,10 @@
-.vscode/
+#VSCode
+.vscode
+
+#MacOS
 *.dSYM/
-a.out
+.DS_Store
+
+#C
 *.o
 *.a
-test.c
-.DS_Store
-ft_printf-test-2/
